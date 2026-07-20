@@ -13,14 +13,15 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 ---
 
 ### 🎛️ Core Infrastructure & Tools
-<p align="left">
-  <a href="https://python.org"><img src="https://shields.io" height="28"/></a>
-  <a href="https://tensorflow.org"><img src="https://shields.io" height="28"/></a>
-  <a href="https://pytorch.org"><img src="https://shields.io" height="28"/></a>
-  <a href="https://tiangolo.com"><img src="https://shields.io" height="28"/></a>
-  <a href="https://docker.com"><img src="https://shields.io" height="28"/></a>
-  <a href="https://supabase.com"><img src="https://shields.io" height="28"/></a>
-</p>
+*Click on the badges to explore the official documentation.*
+
+[![Python](https://shields.io)](https://python.org)
+[![TensorFlow](https://shields.io)](https://tensorflow.org)
+[![PyTorch](https://shields.io)](https://pytorch.org)
+[![FastAPI](https://shields.io)](https://tiangolo.com)
+[![Docker](https://shields.io)](https://docker.com)
+[![Supabase](https://shields.io)](https://supabase.com)
+
 
 
 ---
