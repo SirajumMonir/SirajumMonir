@@ -1,6 +1,9 @@
 # <p align="center">⚙️ Sirajum Monir</p>
 
-![AI Systems Banner](https://shields.io)
+<!-- নিয়ন টুইঙ্কলিং ব্যানার যা গিটহাবের নেটিভ মার্কডাউনে শতভাগ কাজ করবে -->
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
 
 ---
 
@@ -14,16 +17,16 @@ I am a technical innovator engineering at the convergence of **Artificial Intell
 ---
 
 ### 🎛️ Core Infrastructure & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **AI / Machine Learning** | ![Python](https://shields.io) ![TensorFlow](https://shields.io) ![PyTorch](https://shields.io) |
-| **Backend & Ops** | ![FastAPI](https://shields.io) ![Docker](https://shields.io) ![Supabase](https://shields.io) |
-| **Web & Frontend** | ![Three.js](https://shields.io) ![Flutter](https://shields.io) ![Vercel](https://shields.io) |
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
 
 ---
 
 ### 🗺️ Technical Specialization Roadmap
+
 
 ---
 
@@ -34,8 +37,13 @@ I am a technical innovator engineering at the convergence of **Artificial Intell
 
 ---
 
-### 📊 Real-time Engineering Metrics
+### 📊 System Telemetry & Live Activity
+<p align="center">
+  <img src="https://vercel.app" width="49%" />
+  <img src="https://vercel.app" width="49%" />
+</p>
 
-![Sirajum's GitHub Stats](https://vercel.app)
-
-![Top Languages](https://vercel.app)
+---
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
