@@ -13,12 +13,20 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 ---
 
 ### 🎛️ Core Infrastructure & Tools
+*Click on the logos to explore the official documentation of each technology.*
 
-| Category | Technologies & Frameworks |
-| :--- | :--- |
-| **AI / Machine Learning** | Python, TensorFlow, PyTorch, Scikit-Learn |
-| **Backend & Automation** | FastAPI, Docker, Supabase (Cloud DB), n8n Workflow Automation |
-| **Web & Frontend** | Three.js (3D Graphics), Vercel, Flutter, Dart, Git |
+<p align="left">
+  <a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="python" width="45" height="45"/> </a>
+  <a href="https://tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="tensorflow" width="45" height="45"/> </a>
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="pytorch" width="45" height="45"/> </a>
+  <a href="https://tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="fastapi" width="45" height="45"/> </a>
+  <a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="docker" width="45" height="45"/> </a>
+  <a href="https://supabase.com" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="supabase" width="45" height="45"/> </a>
+  <a href="https://threejs.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="threejs" width="45" height="45"/> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="flutter" width="45" height="45"/> </a>
+  <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="vercel" width="45" height="45"/> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="git" width="45" height="45"/> </a>
+</p>
 
 ---
 
