@@ -13,20 +13,15 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 ---
 
 ### 🎛️ Core Infrastructure & Tools
-*Click on the logos to explore the official documentation of each technology.*
-
 <p align="left">
-  <a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="python" width="45" height="45"/> </a>
-  <a href="https://tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="tensorflow" width="45" height="45"/> </a>
-  <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="pytorch" width="45" height="45"/> </a>
-  <a href="https://tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="fastapi" width="45" height="45"/> </a>
-  <a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="docker" width="45" height="45"/> </a>
-  <a href="https://supabase.com" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="supabase" width="45" height="45"/> </a>
-  <a href="https://threejs.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="threejs" width="45" height="45"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="flutter" width="45" height="45"/> </a>
-  <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="vercel" width="45" height="45"/> </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="git" width="45" height="45"/> </a>
+  <a href="https://python.org"><img src="https://shields.io" height="28"/></a>
+  <a href="https://tensorflow.org"><img src="https://shields.io" height="28"/></a>
+  <a href="https://pytorch.org"><img src="https://shields.io" height="28"/></a>
+  <a href="https://tiangolo.com"><img src="https://shields.io" height="28"/></a>
+  <a href="https://docker.com"><img src="https://shields.io" height="28"/></a>
+  <a href="https://supabase.com"><img src="https://shields.io" height="28"/></a>
 </p>
+
 
 ---
 
