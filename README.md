@@ -12,15 +12,17 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 
 ---
 
+
 ### 🎛️ Core Infrastructure & Tools
+
 *Click on the badges to explore the official documentation.*
 
-[![Python](https://shields.io)](https://python.org)
-[![TensorFlow](https://shields.io)](https://tensorflow.org)
-[![PyTorch](https://shields.io)](https://pytorch.org)
-[![FastAPI](https://shields.io)](https://tiangolo.com)
-[![Docker](https://shields.io)](https://docker.com)
-[![Supabase](https://shields.io)](https://supabase.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
 
 
@@ -48,3 +50,11 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 ### 📈 Contact & Connect
 - **LinkedIn:** [://linkedin.com](https://://linkedin.com)
 - **Website:** [sirajum.me](https://sirajum.me)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SirajumMonir&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirajumMonir&layout=compact&theme=radical" alt="Top Languages" />
+</p>
