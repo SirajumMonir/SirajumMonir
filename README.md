@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=SirajumMonir&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
 # Md. Sirajum Monir Emon
 ### AI Systems Engineer & Full-Stack Architect | Building Intelligent Applications
 
