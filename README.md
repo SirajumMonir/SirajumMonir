@@ -54,6 +54,6 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 
 ### 📊 GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SirajumMonir&show_icons=true&theme=radical)](https://github.com/SirajumMonir)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SirajumMonir&show_icons=true&theme=radical&v=1)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirajumMonir&layout=compact&theme=radical)](https://github.com/SirajumMonir)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirajumMonir&layout=compact&theme=radical&v=1)
