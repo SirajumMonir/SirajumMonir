@@ -46,10 +46,19 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 * 📦 **[Orchestration Engine]** — Automated cloud backends managing distributed tasks with **n8n** and **Supabase**.
 
 ---
+## 📈 Contact & Connect
 
-### 📈 Contact & Connect
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-- **Website:** [sirajum.me](https://sirajum.me)
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-sirajum-monir-nir-3b30b2345/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://sirajum.me" target="_blank">
+    <img src="https://img.shields.io/badge/Website-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:theo.g.sscc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ### 📊 GitHub Analytics
 
