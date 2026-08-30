@@ -1,7 +1,7 @@
-![](https://komarev.com/ghpvc/?username=SirajumMonir&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
 
 # Md. Sirajum Monir Emon
-### AI Systems Engineer & Full-Stack Architect | Building Intelligent Applications
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3776AB&center=false&vCenter=true&width=500&lines=AI+Systems+Engineer;Full-Stack+Architect;Building+Intelligent+Applications" alt="Typing SVG" /></a>
 
 I am a developer focused on the intersection of **Artificial Intelligence** and **Scalable Software Ecosystems**. My goal is to construct autonomous agentic workflows, deep learning pipelines, and deploy high-performance system architectures.
 
@@ -14,31 +14,30 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 
 ---
 
-
-### 🎛️ Core Infrastructure & Tools
-
+## 🎛️ Core Infrastructure & Tools
 *Click on the badges to explore the official documentation.*
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="url?id=27"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+  <a href="url?id=29"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="url?id=31"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
+</p>
 
 
 
 ---
-
-### 🗺️ Technical Specialization Roadmap
+## 🗺️ Technical Specialization Roadmap
 *Tracking my architectural progression through core engineering domains.*
 
-- [x] **Phase 1: Advanced Foundations** (Pythonic OOP, Core Data Structures, Systems) `Active`
-- [ ] **Phase 2: Statistical Machine Learning** (ML Pipelines, Regression, Classification)
-- [ ] **Phase 3: Neural Networks & Computer Vision** (CNNs, Transformers, Model Fine-tuning)
-- [ ] **Phase 4: Scalable Deployment & MLOps** (FastAPI Infrastructure, Docker, MLflow)
-- [ ] **Phase 5: Linguistic AI & LLMs** (Hugging Face Core, GPT-4 APIs, LangChain)
-- [ ] **Phase 6: Agentic Automation** (Autonomous Multi-Agent Systems, RAG, Vector DBs)
+- [x] 🟢 **Phase 1: Advanced Foundations** (Pythonic OOP, Core Data Structures, Systems) `Active`
+- [ ] ⏳ **Phase 2: Statistical Machine Learning** (ML Pipelines, Regression, Classification)
+- [ ] 🔒 **Phase 3: Neural Networks & Computer Vision** (CNNs, Transformers, Model Fine-tuning)
+- [ ] 🔒 **Phase 4: Scalable Deployment & MLOps** (FastAPI Infrastructure, Docker, MLflow)
+- [ ] 🔒 **Phase 5: Linguistic AI & LLMs** (Hugging Face Core, GPT-4 APIs, LangChain)
+- [ ] 🔒 **Phase 6: Agentic Automation** (Autonomous Multi-Agent Systems, RAG, Vector DBs)
 
 ---
 
@@ -50,7 +49,7 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 ---
 ## 📈 Contact & Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/md-sirajum-monir-nir-3b30b2345/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -62,8 +61,24 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
   </a>
 </p>
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SirajumMonir&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SirajumMonir&theme=radical" alt="GitHub Streak" />
+</p>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SirajumMonir&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SirajumMonir&theme=radical" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SirajumMonir&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SirajumMonir/SirajumMonir/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SirajumMonir/SirajumMonir/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SirajumMonir/SirajumMonir/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
