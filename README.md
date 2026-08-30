@@ -51,9 +51,8 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 - **LinkedIn:** [://linkedin.com](https://://linkedin.com)
 - **Website:** [sirajum.me](https://sirajum.me)
 
-
 ### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SirajumMonir&show_icons=true&theme=radical&v=1)
+![GitHub Streak](https://streak-stats.demolab.com?user=SirajumMonir&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirajumMonir&layout=compact&theme=radical&v=1)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SirajumMonir&theme=radical)
