@@ -52,9 +52,8 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 - **Website:** [sirajum.me](https://sirajum.me)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirajumMonir&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirajumMonir&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 📊 GitHub Analytics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SirajumMonir&show_icons=true&theme=radical)](https://github.com/SirajumMonir)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirajumMonir&layout=compact&theme=radical)](https://github.com/SirajumMonir)
