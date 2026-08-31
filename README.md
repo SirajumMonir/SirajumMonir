@@ -15,17 +15,25 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 ---
 
 ## 🎛️ Core Infrastructure & Tools
+
 *Click on the badges to explore the official documentation.*
 
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="url?id=27"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-  <a href="url?id=29"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="url?id=31"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
-</p>
-
+<div align="left">
+  <!-- Existing Badges -->
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
+  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></a>
+  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-FF6D5W?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"></a>
+  
+  <br> <!-- Line break for better alignment -->
+  
+  <!-- New AI/ML Tools -->
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+  <a href="https://gradio.app/"><img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"></a>
+  <a href="https://mistral.ai/"><img src="https://img.shields.io/badge/Mistral_AI-F05133?style=for-the-badge&logo=mistral&logoColor=white" alt="Mistral AI"></a>
+</div>
 
 
 ---
@@ -40,6 +48,12 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 - [ ] 🔒 **Phase 6: Agentic Automation** (Autonomous Multi-Agent Systems, RAG, Vector DBs)
 
 ---
+### 🚀 Featured AI & ML Projects
+
+- 🤖 **[Multi-Lingual AI Voice Translator](#)** — An intelligent web application capable of real-time voice translation across multiple languages. *Built with Python, Gradio, and Google Colab.*
+- 💬 **[Open-Source LLM Chatbot](#)** — A responsive artificial intelligence chatbot leveraging open-source large language models. *Built with Python, Gradio, and the Mistral model via Hugging Face.*
+- 📊 **[Bangla Sentiment Analysis Engine](#)** — A machine learning pipeline for data mining, preprocessing, and analyzing sentiments from social media comments and news items.
+- ⚙️ **[Automated Data Preprocessing Platform](#)** — An enterprise-level AI tool designed to automate raw data cleaning and preprocessing pipelines for ML models.
 
 ### 🌐 Live Production Deployments
 * 🔗 **[3D Visual Interface](https://sirajum.me)** — Personal immersive portfolio built with high-end 3D graphics and custom domain.
