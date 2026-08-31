@@ -37,23 +37,47 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 
 
 ---
+
 ## 🗺️ Technical Specialization Roadmap
+
 *Tracking my architectural progression through core engineering domains.*
 
-- [x] 🟢 **Phase 1: Advanced Foundations** (Pythonic OOP, Core Data Structures, Systems) `Active`
-- [ ] ⏳ **Phase 2: Statistical Machine Learning** (ML Pipelines, Regression, Classification)
-- [ ] 🔒 **Phase 3: Neural Networks & Computer Vision** (CNNs, Transformers, Model Fine-tuning)
-- [ ] 🔒 **Phase 4: Scalable Deployment & MLOps** (FastAPI Infrastructure, Docker, MLflow)
-- [ ] 🔒 **Phase 5: Linguistic AI & LLMs** (Hugging Face Core, GPT-4 APIs, LangChain)
-- [ ] 🔒 **Phase 6: Agentic Automation** (Autonomous Multi-Agent Systems, RAG, Vector DBs)
+> **🎯 Current Focus:** Advancing through Statistical Machine Learning and building robust ML Pipelines.
 
----
-### 🚀 Featured AI & ML Projects
+| Phase / Domain | Key Focus Areas | Status |
+| :--- | :--- | :--- |
+| ✅ **Phase 1: Advanced Foundations** | Pythonic OOP, Core Data Structures, Systems Architecture | <img src="https://geps.dev/progress/100" height="18" align="center"> **100%** |
+| 🔄 **Phase 2: Statistical Machine Learning** | ML Pipelines, Regression, Classification | <img src="https://geps.dev/progress/40" height="18" align="center"> **40%** |
+| ⏳ **Phase 3: Neural Networks & CV** | CNNs, Transformers, Model Fine-tuning | <img src="https://geps.dev/progress/0" height="18" align="center"> **0%** |
+| 🔒 **Phase 4: Scalable Deployment** | FastAPI Infrastructure, Docker, MLflow | <img src="https://geps.dev/progress/0" height="18" align="center"> **0%** |
+| 🔒 **Phase 5: Linguistic AI & LLMs** | Hugging Face Core, Prompt Engineering, LangChain | <img src="https://geps.dev/progress/0" height="18" align="center"> **0%** |
+| 🔒 **Phase 6: Agentic Automation** | Autonomous Multi-Agent Systems, RAG, Vector DBs | <img src="https://geps.dev/progress/0" height="18" align="center"> **0%** |
+| 📱 **Phase 7: Mobile Integration** | Dart & Flutter for end-to-end AI apps | <img src="https://geps.dev/progress/0" height="18" align="center"> **0%** |
 
-- 🤖 **[Multi-Lingual AI Voice Translator](#)** — An intelligent web application capable of real-time voice translation across multiple languages. *Built with Python, Gradio, and Google Colab.*
-- 💬 **[Open-Source LLM Chatbot](#)** — A responsive artificial intelligence chatbot leveraging open-source large language models. *Built with Python, Gradio, and the Mistral model via Hugging Face.*
-- 📊 **[Bangla Sentiment Analysis Engine](#)** — A machine learning pipeline for data mining, preprocessing, and analyzing sentiments from social media comments and news items.
-- ⚙️ **[Automated Data Preprocessing Platform](#)** — An enterprise-level AI tool designed to automate raw data cleaning and preprocessing pipelines for ML models.
+<details>
+  <summary><b>💡 Click to view my AI Engineering Philosophy & Short-term Goals</b></summary>
+  <br>
+  <ul>
+    <li><b>Goal 1:</b> Master advanced RAG (Retrieval-Augmented Generation) architectures.</li>
+    <li><b>Goal 2:</b> Build and deploy multi-agent workflows that can autonomously solve complex tasks.</li>
+    <li><b>Philosophy:</b> I believe in not just writing code, but thoroughly understanding the internal mechanics and mathematics behind every algorithm.</li>
+  </ul>
+</details>
+
+
+
+<details>
+  <summary><b>🚀 Click to view my Featured AI & ML Projects</b></summary>
+  <br>
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🤖 **Multi-Lingual Voice Translator** | Real-time AI voice translation web app across multiple languages. | `Python`, `Gradio`, `Colab` |
+| 💬 **Open-Source LLM Chatbot** | Responsive AI chatbot leveraging open-source large language models. | `Python`, `Mistral`, `HuggingFace` |
+| 📊 **Bangla Sentiment Analysis** | ML pipeline for data mining & sentiment analysis on social media/news. | `Python`, `NLP`, `Data-Mining` |
+| ⚙️ **Data Preprocessing Platform** | Enterprise-level automated raw data cleaning pipelines for ML models. | `Python`, `ML Pipelines` |
+
+</details>
 
 ### 🌐 Live Production Deployments
 * 🔗 **[3D Visual Interface](https://sirajum.me)** — Personal immersive portfolio built with high-end 3D graphics and custom domain.
@@ -61,6 +85,13 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 * 📦 **[Orchestration Engine]** — Automated cloud backends managing distributed tasks with **n8n** and **Supabase**.
 
 ---
+## 🤝 Let's Collaborate
+
+I am always open to discussing **Neural Architectures, Agentic Workflows**, or collaborating on scalable ML pipelines. 
+
+- 💬 **Ask me about:** Python, Open-Source LLMs, Machine Learning, and Backend Orchestration.
+- 🌱 **Currently exploring:** Advanced RAG systems and Multi-Agent frameworks.
+
 ## 📈 Contact & Connect
 
 <p align="center">
@@ -75,8 +106,10 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
   </a>
 </p>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics<a href="https://github.com/SirajumMonir">
 
+
+  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SirajumMonir&theme=radical" alt="GitHub Streak" />
 </p>
